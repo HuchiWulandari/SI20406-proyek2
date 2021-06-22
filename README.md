@@ -7,7 +7,7 @@ Nama Aplikasi : E-Notes
 Kelompok E :
 - Arief Kurniawan - 1941415
 - Nanda Handayani - 
-- Siti Aisah Jamil - 
+- Siti Aisah Jamil - 1941488 
 - Rani rohaeni - 
 - Huchi Wulandari - 
 
