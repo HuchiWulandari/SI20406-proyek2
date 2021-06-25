@@ -9,7 +9,7 @@ Kelompok E :
 - Nanda Handayani - 
 - Siti Aisah Jamil - 1941488 
 - Rani rohaeni - 
-- Huchi Wulandari - 
+- Huchi Wulandari - 1941409
 
 Aplikasi ini dibuat dengan :
 - IDE : Android Studio
